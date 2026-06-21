@@ -2,16 +2,14 @@
 **CSCI323 Modern Artificial Intelligence — Spring 2026**
 University of Wollongong in Dubai (UOWD)
 
---
-
 ---
 
 ## Project Overview
 Bizex is a UAE-based B2B consultancy that receives inbound service enquiries through an online lead capture form. This project builds a machine learning pipeline that automatically scores and ranks incoming leads by their likelihood to convert, replacing manual follow-up decisions with a data-driven priority queue.
 
 The pipeline runs in two stages:
-1. **Unsupervised clustering** (K-Means + DBSCAN) — segments leads by activity type, location, and enquiry detail
-2. **Supervised classification** (5 models compared) — predicts whether each lead is Interested, Warm Prospect, or Hot Prospect
+1. **Unsupervised clustering** (K-Means + DBSCAN)  segments leads by activity type, location, and enquiry detail
+2. **Supervised classification** (5 models compared) predicts whether each lead is Interested, Warm Prospect, or Hot Prospect
 
 ---
 
