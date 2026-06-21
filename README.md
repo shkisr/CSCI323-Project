@@ -1,6 +1,5 @@
 # B2B Lead Score Model for Bizex
-**CSCI323 Modern Artificial Intelligence — Spring 2026**
-University of Wollongong in Dubai (UOWD)
+**CSCI323 Modern Artificial Intelligence
 
 ---
 
@@ -111,11 +110,6 @@ Tuned SVM (linear, C=0.1) evaluated on held-out test set with full metrics dashb
 
 ## Limitations
 - 108 records is too small for reliable minority class prediction — Warm and Hot F1 = 0.00 on test set
-- K-Means Euclidean distance is suboptimal for one-hot encoded data (Hamming/Gower would be better)
+- K-Means Euclidean distance is suboptimal for one-hot encoded data
 - No SMOTE or class weighting applied — future work should address imbalance
 - Batch pipeline only — no real-time scoring endpoint yet
-
----
-
-## License
-Academic project — not for commercial use.
