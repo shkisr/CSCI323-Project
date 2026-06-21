@@ -34,7 +34,7 @@ The pipeline runs in two stages:
 ```
 ├── README.md
 ├── company.csv                  
-└── company_5.ipynb
+└── Final Code.ipynb
 ```
 
 ---
