@@ -1,5 +1,5 @@
 # B2B Lead Score Model for Bizex
-**CSCI323 Modern Artificial Intelligence
+**CSCI323 Modern Artificial Intelligence**
 
 ---
 
